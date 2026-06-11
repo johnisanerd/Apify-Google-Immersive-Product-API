@@ -39,9 +39,13 @@ Get Google's rich immersive product pages for any product search as structured J
    # Get your free API key at: https://apify.com?fpr=9n7kx3
    ```
 
-4. **Run the example**
+4. **Run an example**
    ```bash
+   # Single example:
    uv run python google-immersive-product-api-example.py
+
+   # Batch example (searches several product categories in one run):
+   uv run python google-immersive-product-api-batch-example.py
    ```
 
 ### Alternative: set the API key directly
@@ -89,6 +93,8 @@ MCP-ready. AI agents can call it as a tool through the hosted Apify MCP server.
   "maxResultsPerQuery": 10
 }
 ```
+
+For a runnable batch script, see `google-immersive-product-api-batch-example.py` in this repo.
 
 ## Input Parameters
 
@@ -258,4 +264,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Immersive Product API to power product research in your e-commerce tools or AI agent.*
 
-Last Updated: 2026.06.01
+Last Updated: 2026.06.11

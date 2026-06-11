@@ -25,7 +25,8 @@ client = ApifyClient(os.getenv("APIFY_API_TOKEN"))
 # inexpensive: you are billed per product page returned.
 run_input = {
     "query": "running shoes",
-    "gl": "us",
+    "gl": "us",              # two-letter country code for pricing/localization
+    "hl": "en",              # two-letter language code
     "maxResultsPerQuery": 3,
 }
 
