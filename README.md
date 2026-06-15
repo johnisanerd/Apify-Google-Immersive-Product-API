@@ -264,4 +264,13 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Immersive Product API to power product research in your e-commerce tools or AI agent.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store, each targeting one product research use case:
+
+- [Get Rich Product Detail Pages From a Google Search](https://apify.com/johnvc/google-immersive-product-api/examples/get-rich-product-detail-pages-from-a-google-search?fpr=9n7kx3)
+- [Get a Product's Ratings and Reviews From Google](https://apify.com/johnvc/google-immersive-product-api/examples/get-a-product-s-ratings-and-reviews-from-google?fpr=9n7kx3)
+- [Get Apple Watch Prices and Ratings as JSON](https://apify.com/johnvc/google-immersive-product-api/examples/get-apple-watch-prices-and-ratings-as-json?fpr=9n7kx3)
+- [Get Laptop Prices, Brands, and Ratings as JSON](https://apify.com/johnvc/google-immersive-product-api/examples/get-laptop-prices-brands-and-ratings-as-json?fpr=9n7kx3)
+
 Last Updated: 2026.06.15
