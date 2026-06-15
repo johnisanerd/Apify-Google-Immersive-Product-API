@@ -264,4 +264,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Immersive Product API to power product research in your e-commerce tools or AI agent.*
 
-Last Updated: 2026.06.11
+Last Updated: 2026.06.15
