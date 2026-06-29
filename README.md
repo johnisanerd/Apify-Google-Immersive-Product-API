@@ -273,4 +273,4 @@ Ready-to-run examples on the Apify Store, each targeting one product research us
 - [Get Apple Watch Prices and Ratings as JSON](https://apify.com/johnvc/google-immersive-product-api/examples/get-apple-watch-prices-and-ratings-as-json?fpr=9n7kx3)
 - [Get Laptop Prices, Brands, and Ratings as JSON](https://apify.com/johnvc/google-immersive-product-api/examples/get-laptop-prices-brands-and-ratings-as-json?fpr=9n7kx3)
 
-Last Updated: 2026.06.24
+Last Updated: 2026.06.29
