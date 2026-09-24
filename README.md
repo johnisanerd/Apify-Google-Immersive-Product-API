@@ -273,4 +273,15 @@ Ready-to-run examples on the Apify Store, each targeting one product research us
 - [Get Apple Watch Prices and Ratings as JSON](https://apify.com/johnvc/google-immersive-product-api/examples/get-apple-watch-prices-and-ratings-as-json?fpr=9n7kx3)
 - [Get Laptop Prices, Brands, and Ratings as JSON](https://apify.com/johnvc/google-immersive-product-api/examples/get-laptop-prices-brands-and-ratings-as-json?fpr=9n7kx3)
 
+<!-- ask-ai:start -->
+## 🤖 Ask an AI assistant about this Actor
+
+Open a ready-to-send prompt about the Google Immersive Product API in the AI of your choice:
+
+- 💬 [ChatGPT](https://chatgpt.com/?q=Using%20the%20Google%20Immersive%20Product%20API%20on%20Apify%20%28https://apify.com/johnvc/google-immersive-product-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20Headphone%20Prices%20and%20Ratings%20as%20JSON%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🧠 [Claude](https://claude.ai/new?q=Using%20the%20Google%20Immersive%20Product%20API%20on%20Apify%20%28https://apify.com/johnvc/google-immersive-product-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20Headphone%20Prices%20and%20Ratings%20as%20JSON%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🔍 [Perplexity](https://www.perplexity.ai/search?q=Using%20the%20Google%20Immersive%20Product%20API%20on%20Apify%20%28https://apify.com/johnvc/google-immersive-product-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20Headphone%20Prices%20and%20Ratings%20as%20JSON%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+- 🅒 [Copilot](https://copilot.microsoft.com/?q=Using%20the%20Google%20Immersive%20Product%20API%20on%20Apify%20%28https://apify.com/johnvc/google-immersive-product-api?fpr=9n7kx3%29%2C%20walk%20me%20through%20this%20use%20case:%20%22Get%20Headphone%20Prices%20and%20Ratings%20as%20JSON%22.%20Show%20me%20the%20input%20JSON%2C%20the%20output%20fields%2C%20and%20how%20to%20automate%20it%20with%20the%20API%20or%20MCP.)
+<!-- ask-ai:end -->
+
 Last Updated: 2026.09.22
